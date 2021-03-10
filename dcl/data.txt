@@ -1,0 +1,14 @@
+path:
+- data.csv
+- data.rds
+rows: 4368
+cols: 3
+columns:
+  name: character
+  time_value: Date
+  value: numeric
+description: Historical Daily Values of Delphi Research Group combined indicator
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds

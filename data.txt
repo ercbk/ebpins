@@ -4,3 +4,9 @@
   cols: 11
   description: test
   type: table
+- path: dcl
+  name: dcl
+  rows: 4368
+  cols: 3
+  description: Historical Daily Values of Delphi Research Group combined indicator
+  type: table
