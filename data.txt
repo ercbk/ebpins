@@ -1,0 +1,6 @@
+- path: mtcars
+  name: mtcars
+  rows: 32
+  cols: 11
+  description: test
+  type: table
